@@ -22,7 +22,7 @@ This page show :
       
       iii. athletes vs year
 3. next it we show heatmap for no.event over time
-4. At the end it will show a table of top 15 most successsful atheles.
+4. At the end it will show a table of top 15 most successsful atheles.we can also filter out athlete on the basis of sport.
 
 dataset link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 
