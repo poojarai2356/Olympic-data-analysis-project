@@ -7,12 +7,12 @@ Olympic data analysis web app have 4 major section:
 4. athlete-wise analysis
 
 ### Medal Tally module:
--> This section show all country gained medal summary. By default value of year and country are Overall. we can apply filter on the basis of:
+This section show all country gained medal summary. By default value of year and country are Overall. we can apply filter on the basis of:
 1. year
 2. country
 
 ### Overall Analysis:
--> This page show :
+This page show :
 1. top statistics that include edition, host, nation, events, athlete, sports.
 2. next it will show ploty line graph :
 
