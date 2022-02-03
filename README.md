@@ -1,5 +1,10 @@
 # Olympic-data-analysis-project
 
+dataset link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
+
+webapp link: https://olympic-da.herokuapp.com/
+
+## Description:
 Olympic data analysis web app have 4 major section:
 1. Medal Tally
 2. Overall analysis
@@ -32,12 +37,14 @@ In this section we can analysis whole data for a particular country. it show:
 
 ### Athlete-wise analysis:
 In this module we can analysis whole data on the basis of athletes. it show:
+
 1.Distribution of age.
+
 2.Distribution of Age wrt Sports(Gold Medalist) that show in which athlete age range there is most probably chances of gold medal in particular sport.
+
 3.Height Vs Weight that show height vs weight relation of athlete for particular sport. By default it show this realtion for all sport. we can filter out data on the basis of  particular sport.
-4.Men Vs Women Participation Over the Years
+
+4.Men Vs Women Participation Over the Years taht
 
 
-dataset link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
-
-webapp link: https://olympic-da.herokuapp.com/
+ 
