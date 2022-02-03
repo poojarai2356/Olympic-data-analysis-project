@@ -44,7 +44,7 @@ In this module we can analysis whole data on the basis of athletes. it show:
 
 3.Height Vs Weight that show height vs weight relation of athlete for particular sport. By default it show this realtion for all sport. we can filter out data on the basis of  particular sport.
 
-4.Men Vs Women Participation Over the Years taht
+4.Men Vs Women Participation Over the Years that show no of paticipation of man and woman athlete over the year.for showing this relation again plotly line gragh is used.
 
 
  
